@@ -1,0 +1,79 @@
+body{
+    background-color:black;
+    margin: 0 auto;
+    padding: O;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}.wrapper{
+   width: 1170px;
+    margin: auto;
+    
+}
+
+header{}
+.logo{
+    width: 2OOpx;
+    height:200px;
+    float: left;
+  
+    
+}
+
+  
+    
+
+
+
+
+.navbar{
+    float: right;
+    list-style: none;
+    margin-right: 500px;
+    margin-top:80px;
+    
+}
+.navbar li{
+   display: inline-block;
+}
+.navbar li a{
+  color:cadetblue;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family:fantasy;
+    font-size: 17px;
+}
+.navbar li a:hover{
+    background:#bdd;
+    color:darkslateblue;
+}
+.text{
+    position:absolute;
+    width: 600px;
+    height: 300px;
+    margin: 25% 5%;
+    text-align: center
+}
+.text h1{
+    text-align: center;
+    color: crimson;
+    text-transform: uppercase;
+    font-size:25px;
+}.text h2{
+    text-align: center;
+    color:crimson;
+    text-transform: uppercase;
+    font-size:25px;
+}
+
+.text p{
+   border:  1px;
+    border-color: cadetblue;
+    padding: 10px 25px;
+    color: cadetblue;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-top: 20px;
+    display: inline-block;
+}

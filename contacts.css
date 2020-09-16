@@ -1,0 +1,88 @@
+body{
+    background-color: black;
+    margin: 0 auto;
+    padding: O;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}.wrapper{
+   width: 1170px;
+    margin: auto;
+    
+}
+
+header{}
+.logo{
+   
+    width: 2OOpx;
+    height:200px;
+    float: left;
+  
+    
+}
+
+.fb{
+   
+    width: 250px;
+    height:100px;
+    
+ 
+  }  
+.insta{
+   
+    width: 250px;
+    height:100px;
+    
+
+  }  
+  
+    
+}
+
+
+
+.navbar{
+    float: left;
+    list-style: none;
+    margin-right: 500px;
+    margin-top:80px;
+    
+}
+.navbar li{
+   display: inline-block;
+}
+.navbar li a{
+  color:cadetblue;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family:fantasy;
+    font-size: 17px;
+}
+.navbar li a:hover{
+    background:#bdd;
+    color:darkslateblue;
+}
+.welcom{
+    position:absolute;
+    width: 200px;
+    height: 200px;
+    margin: 15% 5%;
+    text-align: center
+}
+.welcom h1{
+    text-align: center;
+    color: cadetblue;
+    text-transform: uppercase;
+    font-size:25px;
+}
+.welcom a{
+   border:  1px;
+    border-color: cadetblue;
+    padding: 10px 25px;
+    color: cadetblue;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-top: 20px;
+    display: inline-block;
+}

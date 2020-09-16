@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    margin: 0 auto;
+    padding: O;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}.wrapper{
+   width: 1170px;
+    margin: auto;
+    
+}
+
+header{}
+
+.gallery img{
+    float: right;
+    width: 280px;
+    height: 280px;
+}
+.logo{
+   
+    width: 100px;
+    height:100px;
+    float: left;  
+ }  
+.navbar{
+    float: left;
+    list-style: none;
+    margin-right: 500px;
+    margin-top:80px;
+    
+}
+.navbar li{
+   display: inline-block;
+}
+.navbar li a{
+  color:cadetblue;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family:fantasy;
+    font-size: 17px;
+}
+.navbar li a:hover{
+    background:#bdd;
+    color:darkslateblue;
+}
+.gallery{
+    width: 280px;
+    height: 280px;
+    
+    padding: 10px 30 px;
+}
+.gallery img{
+    width: 280px;
+    height: 280px;
+}
